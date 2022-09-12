@@ -4,9 +4,9 @@ Hello World is a short program to signify the beginning of a specific coding lan
 In my Software Engineering career I have experience with Python and this will be a showcase of the new
 things I will learn. I hope to create new software that will challenge me in using new techniques and
 expose me to new code that will help in developing a better understanding of best business practices.
-I created this to show a starting point in learning more ways to coding with the Python language.
+I created this to show a starting point in learning better ways to coding with the Python language.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/oN09pJc3smE)
 
 # Development Environment
 
